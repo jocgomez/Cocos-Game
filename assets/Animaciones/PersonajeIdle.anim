@@ -1,0 +1,79 @@
+{
+  "__type__": "cc.AnimationClip",
+  "_name": "PersonajeIdle",
+  "_objFlags": 0,
+  "_native": "",
+  "_duration": 0.9166666666666666,
+  "sample": 60,
+  "speed": 1,
+  "wrapMode": 2,
+  "curveData": {
+    "comps": {
+      "cc.Sprite": {
+        "spriteFrame": [
+          {
+            "frame": 0,
+            "value": {
+              "__uuid__": "af45be5f-7ef0-4a09-9f0f-ca06d17222b4"
+            }
+          },
+          {
+            "frame": 0.1,
+            "value": {
+              "__uuid__": "4b2e7e9c-09af-4a7a-9f53-ba2b78ccee0c"
+            }
+          },
+          {
+            "frame": 0.2,
+            "value": {
+              "__uuid__": "b98a2042-74c9-4eae-a303-466aa5c03654"
+            }
+          },
+          {
+            "frame": 0.3,
+            "value": {
+              "__uuid__": "97eabd35-8fdc-4f8d-b626-5bfecbbefb48"
+            }
+          },
+          {
+            "frame": 0.4,
+            "value": {
+              "__uuid__": "4901ba2f-6365-48f8-8da4-47f1b524c432"
+            }
+          },
+          {
+            "frame": 0.5,
+            "value": {
+              "__uuid__": "d9fc0529-ff44-4993-97e0-cdbfdf3429a1"
+            }
+          },
+          {
+            "frame": 0.6,
+            "value": {
+              "__uuid__": "bf6548b4-0247-4aad-aa8c-4ff1de24d791"
+            }
+          },
+          {
+            "frame": 0.7,
+            "value": {
+              "__uuid__": "85e6226a-e55e-451b-9d27-a7d9e6296c5c"
+            }
+          },
+          {
+            "frame": 0.8,
+            "value": {
+              "__uuid__": "0d28b4a1-a774-492a-8bdc-2f0d3a22e821"
+            }
+          },
+          {
+            "frame": 0.9,
+            "value": {
+              "__uuid__": "d807843a-7c50-44e9-8d98-57e03b00dfd3"
+            }
+          }
+        ]
+      }
+    }
+  },
+  "events": []
+}

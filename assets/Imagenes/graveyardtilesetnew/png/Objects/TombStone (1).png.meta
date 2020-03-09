@@ -1,0 +1,36 @@
+{
+  "ver": "2.3.4",
+  "uuid": "b45e0408-de02-4db3-837d-0438ec1f8e5b",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 54,
+  "height": 55,
+  "platformSettings": {},
+  "subMetas": {
+    "TombStone (1)": {
+      "ver": "1.0.4",
+      "uuid": "a19c8b8d-689c-457a-a7c1-9a5ea34a6416",
+      "rawTextureUuid": "b45e0408-de02-4db3-837d-0438ec1f8e5b",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 54,
+      "height": 55,
+      "rawWidth": 54,
+      "rawHeight": 55,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

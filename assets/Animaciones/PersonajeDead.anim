@@ -1,0 +1,79 @@
+{
+  "__type__": "cc.AnimationClip",
+  "_name": "PersonajeDead",
+  "_objFlags": 0,
+  "_native": "",
+  "_duration": 0.9166666666666666,
+  "sample": 60,
+  "speed": 1,
+  "wrapMode": 1,
+  "curveData": {
+    "comps": {
+      "cc.Sprite": {
+        "spriteFrame": [
+          {
+            "frame": 0,
+            "value": {
+              "__uuid__": "ab471a39-fb4e-4785-bdc3-8410a90f27dd"
+            }
+          },
+          {
+            "frame": 0.1,
+            "value": {
+              "__uuid__": "066d5ee2-f0c6-4b2e-ad65-5b538a3cf4b7"
+            }
+          },
+          {
+            "frame": 0.2,
+            "value": {
+              "__uuid__": "c6a0b5ae-cc26-4d09-9301-86551f257a79"
+            }
+          },
+          {
+            "frame": 0.3,
+            "value": {
+              "__uuid__": "c10ef1d3-0cea-4bd0-ba9c-d2fcae7ece33"
+            }
+          },
+          {
+            "frame": 0.4,
+            "value": {
+              "__uuid__": "c81bb24a-17b7-4a63-9483-b534f5a7937f"
+            }
+          },
+          {
+            "frame": 0.5,
+            "value": {
+              "__uuid__": "2d44ed58-dd95-4e3b-be03-dd3c1b5a3b16"
+            }
+          },
+          {
+            "frame": 0.6,
+            "value": {
+              "__uuid__": "cab9466e-534d-42c2-98fb-bd1a487dbcd7"
+            }
+          },
+          {
+            "frame": 0.7,
+            "value": {
+              "__uuid__": "07fae568-3e80-4c4e-86d6-d1c7e31a8720"
+            }
+          },
+          {
+            "frame": 0.8,
+            "value": {
+              "__uuid__": "4d4c4df7-5d48-4bc6-b54f-8586af12cc6b"
+            }
+          },
+          {
+            "frame": 0.9,
+            "value": {
+              "__uuid__": "de0ae1ae-5ce2-46ce-bd8f-e31b49232ce5"
+            }
+          }
+        ]
+      }
+    }
+  },
+  "events": []
+}
